@@ -1,1 +1,1 @@
-# Hybrid-Reinforcement-Learning-for-Personalized-Diabetes-Care
+# Reinforcement-Learning-for-Personalized-Diabetes-Care
